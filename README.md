@@ -6,7 +6,7 @@ Data sink for [Statsite](https://github.com/armon/statsite) and
 ## Install
 
 ```console
-$ gem install instrumental-statsite
+$ gem install statsite-instrumental
 ```
 
 ## Configuration
