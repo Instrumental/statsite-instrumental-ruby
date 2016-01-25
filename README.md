@@ -17,7 +17,7 @@ instrumental API key as the only argument to the script.
 
 ```
 [statsite]
-stream_cmd = /usr/bin/statsite-instrumental [api key]
+stream_cmd = /usr/local/bin/statsite-instrumental [api key]
 ```
 
 ## Note on Patches/Pull Requests
