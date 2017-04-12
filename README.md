@@ -14,11 +14,11 @@ $ gem install statsite-instrumental
 
 To use the sink you need to set `stream_cmd` in your config for statsite. Make
 sure you're using the correct path to the executable and supply your
-instrumental API key as the only argument to the script.
+instrumental [project API token](https://instrumentalapp.com/docs/tokens) as the only argument to the script.
 
 ```
 [statsite]
-stream_cmd = /usr/local/bin/statsite-instrumental [api key]
+stream_cmd = /usr/local/bin/statsite-instrumental PROJECT_API_TOKEN
 ```
 
 ## Note on Patches/Pull Requests
